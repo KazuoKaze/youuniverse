@@ -22,6 +22,7 @@ export default buildConfig({
     'https://promasters.net',
     'http://127.0.0.1:5500',
     'https://youuniverse.vercel.app',
+    'https://youuniverse.web.app',
     // Add your production domain later, e.g.:
     // 'https://yourdomain.com',
   ],
@@ -51,6 +52,7 @@ export default buildConfig({
     'https://promasters.net',
     'http://127.0.0.1:5500',
     'https://youuniverse.vercel.app',
+    'https://youuniverse.web.app',
     // 'https://yourdomain.com',
   ],
 })
